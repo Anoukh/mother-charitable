@@ -22,18 +22,22 @@
 	-webkit-border-radius:0
 }
 #page1 footer .col-1 {
-	width:190px;
+	width:200px;
 	margin-right:55px
 }
 #page1 footer .col-2 {
-	width:110px;
+	width:150px;
 	margin-right:55px
 }
 #page1 footer .col-3 {
-	width:140px;
+	width:110px;
 	margin-right:65px
 }
 #page1 footer .col-4 {
+	width:200px;
+	margin-right:10px
+}
+#page1 footer .col-5 {
 	width:235px
 }
 /* news.html */
@@ -55,18 +59,22 @@
 	padding:12px 0
 }
 #page2 footer .col-1 {
-	width:190px;
+	width:200px;
 	margin-right:55px
 }
 #page2 footer .col-2 {
-	width:110px;
+	width:150px;
 	margin-right:55px
 }
 #page2 footer .col-3 {
-	width:140px;
+	width:110px;
 	margin-right:65px
 }
 #page2 footer .col-4 {
+	width:200px;
+	margin-right:10px
+}
+#page2 footer .col-5 {
 	width:235px
 }
 /* services.html */
@@ -88,18 +96,22 @@
 	padding:12px 0
 }
 #page3 footer .col-1 {
-	width:190px;
+	width:200px;
 	margin-right:55px
 }
 #page3 footer .col-2 {
-	width:110px;
+	width:150px;
 	margin-right:55px
 }
 #page3 footer .col-3 {
-	width:140px;
+	width:110px;
 	margin-right:65px
 }
 #page3 footer .col-4 {
+	width:200px;
+	margin-right:10px
+}
+#page3 footer .col-5 {
 	width:235px
 }
 /* products.html */
@@ -125,18 +137,22 @@
 	background:url(../images/pic-1.gif) 0 4px no-repeat
 }
 #page4 footer .col-1 {
-	width:190px;
+	width:200px;
 	margin-right:55px
 }
 #page4 footer .col-2 {
-	width:110px;
+	width:150px;
 	margin-right:55px
 }
 #page4 footer .col-3 {
-	width:140px;
+	width:110px;
 	margin-right:65px
 }
 #page4 footer .col-4 {
+	width:200px;
+	margin-right:10px
+}
+#page4 footer .col-5 {
 	width:235px
 }
 /* contacts.html */
@@ -161,18 +177,22 @@
 	padding:27px 33px 36px
 }
 #page5 footer .col-1 {
-	width:190px;
+	width:200px;
 	margin-right:55px
 }
 #page5 footer .col-2 {
-	width:110px;
+	width:150px;
 	margin-right:55px
 }
 #page5 footer .col-3 {
-	width:140px;
+	width:110px;
 	margin-right:65px
 }
 #page5 footer .col-4 {
+	width:200px;
+	margin-right:10px
+}
+#page5 footer .col-5 {
 	width:235px
 }
 .col-Ser {
@@ -201,6 +221,26 @@
 #page5vol #content {
 	padding:12px 0
 }
+#page5vol footer .col-1 {
+	width:200px;
+	margin-right:55px
+}
+#page5vol footer .col-2 {
+	width:150px;
+	margin-right:55px
+}
+#page5vol footer .col-3 {
+	width:110px;
+	margin-right:65px
+}
+#page5vol footer .col-4 {
+	width:200px;
+	margin-right:10px
+}
+#page5vol footer .col-5 {
+	width:235px
+}
+
 
 #page6don #content .col-1 {
 	width:292px;
@@ -220,5 +260,25 @@
 #page6don #content {
 	padding:12px 0;
 }
+#page6don footer .col-1 {
+	width:200px;
+	margin-right:55px
+}
+#page6don footer .col-2 {
+	width:150px;
+	margin-right:55px
+}
+#page6don footer .col-3 {
+	width:110px;
+	margin-right:65px
+}
+#page6don footer .col-4 {
+	width:200px;
+	margin-right:10px
+}
+#page6don footer .col-5 {
+	width:235px
+}
+
 
 

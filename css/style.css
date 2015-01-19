@@ -602,7 +602,7 @@ dl.address {
 }
 dl.address span {
 	float:left;
-	width:74px;
+	width:200px;
 	color:#fefefe
 }
 dl.contact {
@@ -836,4 +836,8 @@ width:100%
 #page6don .don{
 	font-size:large;
 	color:#373737;
+}
+.ab {
+	width:200px;
+	margin-right:55px
 }
