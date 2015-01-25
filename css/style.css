@@ -189,10 +189,10 @@ header {
 	overflow:hidden;
 	margin-top:25px;
 	padding-top:20px;
-	background-color:#FFFFFF;
+	background-color:#DADADA;
 	background-image:url('../images/mcato-funinthesun-solid (7).jpg');
 	padding-bottom:20px;
-	opacity:0.8;
+	/*opacity:0.8;*/
 	margin-bottom:5px;
 	border-radius:20px
 }
@@ -237,7 +237,7 @@ h1 {
 }
 
 .maintitle{
-	margin-top:5px;
+	margin-top:10px;
 }
 
 .slog {
@@ -301,7 +301,8 @@ h1 {
 /* main menu */
 .menu {
 	width:100%;
-	background-image:url('../images/tab bg.jpg')
+	background-image:url('../images/tab bg.jpg');
+	font-weight:bold;
 }
 .menu li {
 	float:left;
@@ -314,7 +315,7 @@ h1 {
 .menu li a {
 	display:inline-block;
 	width:139px;
-	font-size:17px;
+	font-size:20px;
 	line-height:1.22em;
 	padding:18px 0 36px;
 	margin-top:10px;
@@ -768,11 +769,12 @@ width:100%
 }
 
 .main-title-sub{
-	font-size:45px;
-	color:#EE4491;
-	font-family:Calibri;
-	 text-shadow: 0.5px 0.5px 0 black, 0.5px -0.5px 0 black, -0.5px 0.5px 0 black, -0.5px -0.5px 0 black;
-	margin-left:175px
+	font-size:50px;
+	color:#CC0000;
+	font-family:Vijaya;
+	text-shadow: 0.5px 0.5px 0 black, 0.5px -0.5px 0 black, -0.5px 0.5px 0 black, -0.5px -0.5px 0 black;
+	/*margin-left:175px;*/
+	margin-bottom:20px
 }
 
 .h4-sub {
@@ -784,13 +786,15 @@ width:100%
 }
 
 .main-hedding{
-	font-family:"Calibri", Times, serif;
-	font-weight:600;
+	/*font-family:"Calibri", Times, serif;*/
+	font-family:"Bradley Hand ITC";
+	font-weight:900;
 	font-size:60px;
-	line-height:1.2em;
+	line-height:0.9em;
 	color:#03467C;
 	letter-spacing:-1px;
 	height:100px;
+	margin-top: 14px;
 }
 
 .readmore-tab{
