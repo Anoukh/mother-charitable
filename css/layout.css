@@ -49,11 +49,12 @@
 	width:292px
 }
 #page2 #content .col-3 {
-	width:550px;
+	width:600px;
 	margin-right:45px
 }
 #page2 #content .col-4 {
-	width:350px
+	width:280px;
+	padding-top:35px
 }
 #page2 #content {
 	padding:12px 0
@@ -164,11 +165,11 @@
 	width:292px
 }
 #page5 #content .col-3 {
-	width:655px;
-	margin-right:41px
+	width:645px;
+	/*margin-right:41px*/
 }
 #page5 #content .col-4 {
-	width:235px
+	width:270px
 }
 #page5 #content {
 	padding:12px 0
