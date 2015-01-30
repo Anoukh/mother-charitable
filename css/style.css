@@ -113,6 +113,12 @@ p {
 .color-4 {
 	color:#0f0f0f
 }
+.color-5{
+	color:#FFFFFF;
+}
+.color-6{
+	color:black;
+}
 /* boxes */
 .margin-bot {
 	margin-bottom:35px
@@ -770,7 +776,7 @@ width:100%
 }
 
 .main-title-sub{
-	font-size:50px;
+	font-size:35px;
 	color:#CC0000;
 	font-family:"Cataneo BT";
 	text-shadow: 0px 0px 0 black, 0.5px -0.5px 0 black, -0.5px 0.5px 0 black, -0.5px -0.5px 0 black;
@@ -790,11 +796,11 @@ width:100%
 .main-hedding{
 	/*font-family:"Calibri", Times, serif;*/
 	font-family:"Gloucester MT Extra Condensed";
-	font-weight:600;
-	font-size:50px;
+	font-weight:700;
+	font-size:53px;
 	line-height:1.2em;
 	color:#03467C;
-	letter-spacing:3px;
+	letter-spacing:1px;
 	height:100px;
 	margin-top: 14px;
 }
@@ -862,7 +868,7 @@ width:100%
 
 #page5 h4{
 	font-size:25px;
-	color:black;
+	/*color:black;*/
 	margin-bottom:0px;
 }
 
@@ -873,4 +879,8 @@ width:100%
 #page5 .p1_con{
 	font-size:18px;
 	color:#808080
+}
+
+.edufont{
+	font-size:19px
 }
